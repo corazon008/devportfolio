@@ -9,7 +9,7 @@ export const siteConfig = {
         github: "https://github.com/corazon008",
     },
     aboutMe:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+        "Commited and passionate computer science student with a strong foundation in programming and software development. Eager to apply my skills in real-world projects and contribute to innovative solutions.",
     skills: ["Python", "C++", "Java", "Docker", "Linux", "Git"],
     projects: [
         {
@@ -54,13 +54,12 @@ export const siteConfig = {
             ],
         },
         {
-            company: "Digital Agency",
-            title: "Frontend Developer",
-            dateRange: "Aug 2018 - May 2020",
+            company: "IGRECA",
+            title: "Powder Packaging Worker",
+            dateRange: "Feb 2025",
             bullets: [
-                "Developed responsive web applications for 20+ clients",
-                "Improved site performance scores by 35% on average",
-                "Introduced modern JavaScript frameworks to legacy codebases",
+                "Fill powder boxes and pack them",
+                "Move boxes onto a pallet",
             ],
         },
     ],
