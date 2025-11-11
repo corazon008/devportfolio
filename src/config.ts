@@ -1,5 +1,3 @@
-export const siteConfig = siteConfigFr;
-
 export const siteConfigFr = {
     name: "Corentin CALVEZ",
     title: "Etudiant en école d'ingénieur",
@@ -155,3 +153,5 @@ export const siteConfigEn = {
         },
     ],
 };
+
+export const siteConfig = siteConfigFr;
