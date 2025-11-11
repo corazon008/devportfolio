@@ -4,7 +4,7 @@ export const siteConfig = {
     description: "Portfolio website of Corentin CALVEZ",
     accentColor: "#1d4ed8",
     social: {
-        email: "your-email@example.com",
+        email: "corentin@bronevez.uk",
         linkedin: "https://linkedin.com/in/corentin-calvez",
         github: "https://github.com/corazon008",
     },
@@ -70,16 +70,7 @@ export const siteConfig = {
             dateRange: "2022 - 2027",
             achievements: [
                 "ERASMUS semester in Greece, Spain and Czech Republic",
-            ],
-        },
-        {
-            school: "Online Platform",
-            degree: "Full Stack Development Certificate",
-            dateRange: "2019",
-            achievements: [
-                "Completed 500+ hours of coursework",
-                "Built 10+ portfolio projects",
-                "Specialized in React and Node.js",
+                "Cisco Networking Academy courses completed",
             ],
         },
     ],
