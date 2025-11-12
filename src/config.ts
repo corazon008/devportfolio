@@ -70,6 +70,7 @@ export const siteConfigFr = {
             dateRange: "2022 - 2027",
             achievements: [
                 "Semestre ERASMUS en Grèce, Espagne et République Tchèque",
+                "Score TOEIC : 910/990",
                 "Cours de la Cisco Networking Academy complétés",
             ],
         },
@@ -148,6 +149,7 @@ export const siteConfigEn = {
             dateRange: "2022 - 2027",
             achievements: [
                 "ERASMUS semester in Greece, Spain and Czech Republic",
+                "TOEIC Score: 910/990",
                 "Cisco Networking Academy courses completed",
             ],
         },
