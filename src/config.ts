@@ -43,17 +43,14 @@ export const siteConfigFr = {
                 "Développement d'une application Android pour la communication avec des dispositifs Bluetooth",
                 "Apprentissage des systèmes embarqués et des applications IoT",
             ],
-            analysis: "Dans le cadre de ma formation à l'ESAIP, j'ai eu l'opportunité d'effectuer un stage avec un " +
-                "assistant professeur à l’université d’Athènes dans le «Department of Industrial Design and " +
-                "Production Engineering» . Ce stage d'une durée de deux mois m’a permis de découvrir " +
-                "l’électronique ainsi que la programmation Arduino.\n" +
-                "L'objectif de ce rapport est de présenter les missions que j'ai réalisées, ainsi que les compétences " +
-                "et connaissances que j'ai pu acquérir. Dans une première partie, je présenterai l'université. Puis, " +
-                "je détaillerai les missions qui m'ont été confiées pendant le stage, en expliquant les tâches que j'ai " +
-                "réalisées et les éventuels problèmes rencontrés.\n" +
-                "Ce stage a été pour moi une expérience riche et formatrice qui m'a permis d'acquérir des " +
-                "compétences dans le fonctionnement des systèmes électroniques ainsi que d’autres domaines que " +
-                "je développerai par la suite.",
+            analysis: "Durant mon stage de deux mois à University of West Attica, j’ai travaillé sur plusieurs projets en " +
+                "électronique et programmation Arduino, encadré par un assistant professeur. Après une initiation aux " +
+                "composants et à la soudure, j’ai réalisé des projets variés : contrôle d’un bras motorisé, pilotage de " +
+                "drone avec joystick et gyroscope, et mémoire de parcours pour un robot roulant. Mon projet final a " +
+                "consisté à développer une application Android en Kotlin communiquant avec une carte Arduino via " +
+                "Bluetooth Low Energy. Ce stage m’a permis d’acquérir des compétences techniques en électronique " +
+                "embarquée, programmation mobile et communication sans fil. Il a également été une expérience humaine " +
+                "enrichissante favorisant autonomie, collaboration et partage de connaissances.",
         },
         {
             company: "SDIS49",
@@ -63,18 +60,15 @@ export const siteConfigFr = {
                 "Mise à niveau de la version PHP du serveur web et résolution des changements incompatibles",
                 "Apprentissage des meilleures pratiques de sécurité et de la gestion des serveurs (ISO 27001)",
             ],
-            analysis: "Dans le cadre de ma formation à l'ESAIP, j'ai eu l'opportunité d'effectuer un stage au sein du " +
-                "Service Départemental d'Incendie et de Secours de Maine-et-Loire (SDIS49). Ce stage d'une durée d’un " +
-                "mois m’a permis de découvrir le quotidien d'un service informatique d'une grande institution publique " +
-                "et de mettre en pratique les connaissances acquises durant ma formation.\n" +
-                "L'objectif de ce rapport est de présenter les missions que j'ai réalisées au sein du service " +
-                "informatique du SDIS49, ainsi que les compétences et connaissances que j'ai pu acquérir. Dans une " +
-                "première partie, je présenterai l'entreprise et son contexte, en décrivant son rôle et ses missions " +
-                "dans le département du Maine-et-Loire. Puis, je détaillerai les missions qui m'ont été confiées " +
-                "pendant le stage, en expliquant les tâches que j'ai réalisées et les éventuels problèmes rencontrés. \n" +
-                "Ce stage a été pour moi une expérience riche et formatrice qui m'a permis d'acquérir des compétences " +
-                "en matière de cybersécurité ainsi que d’autres domaines que je développerai par la suite, et, de " +
-                "découvrir le fonctionnement d'un service informatique."
+            analysis: "J'ai effectué un stage d'un mois au Service Départemental d'Incendie et de Secours de " +
+                "Maine-et-Loire (SDIS49) dans le service informatique. Mon objectif était de découvrir le quotidien " +
+                "d'un service informatique. Pendant mon stage, j'ai participé à plusieurs missions, notamment la mise " +
+                "à jour d'un serveur de test. Il fallait mettre à jour l'OS (Debian), Apache (serveur web), PHP " +
+                "(langage web), Samba (partage de fichiers), MySQL (base de données) et PhpMyAdmin (gestion de la base " +
+                "de données). J'ai également assisté à des tâches de maintenance informatique et de support utilisateur. " +
+                "Ce stage a été une expérience enrichissante qui m'a permis d'acquérir de nouvelles compétences en " +
+                "matière de cybersécurité et de découvrir le fonctionnement d'un service informatique au sein d'une " +
+                "grande institution publique.",
         },
         {
             company: "IGRECA",
