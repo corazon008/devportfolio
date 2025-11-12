@@ -3,3 +3,22 @@
 body {
   font-family: 'IBM Plex Mono', monospace;
 }
+
+::backdrop {
+    background-image: radial-gradient(circle at center, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.95) 100%);
+    opacity: 0.85;
+}
+
+.dialog {
+    position: fixed;
+    /* Move it 50% relative to container */
+    top: 50%;
+    left: 50%;
+    /* Move it back 50% relative to self */
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 10px;
+}
+
