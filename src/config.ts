@@ -156,4 +156,4 @@ export const siteConfigEn = {
     ],
 };
 
-export const siteConfig = siteConfigFr;
+export const siteConfig = siteConfigEn;
