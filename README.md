@@ -4,7 +4,7 @@ A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfe
 
 ## Preview
 
-To view a live preview of the site, [click here](https://corazon008.github.io/Portfolio/).
+To view a live preview of the site, [click here](https://corazon008.github.io/devportfolio/).
 
 ## Built With
 
