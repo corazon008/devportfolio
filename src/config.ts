@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Commited and passionate student in artificial intelligence with a strong foundation in programming and software development. Eager to apply my skills in real-world projects and contribute to innovative solutions.",
-  skills: ["Python", "C++", "Java", "Docker", "Git", "Linux"],
+  skills: ["Python", "PyTorch", "C++", "Java", "Docker", "Git", "Linux"],
   projects: [
     {
       name: "Machine Learning Portfolio",
@@ -18,6 +18,12 @@ export const siteConfig = {
         "This project contains a curated collection of applied machine learning and deep learning projects implemented from scratch and with standard frameworks.",
       link: "https://github.com/corazon008/machine-learning-portfolio",
       skills: ["Python", "PyTorch", "Docker"],
+    },
+    {
+      name: "Detect Portal State",
+      description: "This project is an application which provide an API endpoint to watch for an object state from camera feed.",
+      link: "https://github.com/corazon008/Detect-Portal-State",
+      skills: ["Python", "PyTorch", "OpenCV", "Flask", "Docker"],
     },
     {
       name: "API Alcuin Calendar",
@@ -31,7 +37,7 @@ export const siteConfig = {
       description:
         "Android app to monitor your rewards from the StartMining platform, built with Java and Android SDK",
       link: "https://github.com/corazon008/Unofficial-StartminingApp",
-      skills: ["Kotlin", "Java", "Blockchain"],
+      skills: ["Android", "Kotlin", "Java", "Blockchain"],
     },
   ],
   experience: [
